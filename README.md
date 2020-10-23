@@ -1,2 +1,2 @@
-# AngryBirdsWithSounds
-In this project I added sounds and debugged the game with the help of my teacher
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
